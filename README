@@ -10,3 +10,7 @@ docs/
 
 magazines.txt
   Magazines
+
+manifest
+  Manifest for resync application
+
