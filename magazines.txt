@@ -1,0 +1,43 @@
+magazines.txt
+Created Wed Jun 16 10:36:22 AKDT 2010
+by Raymond E. Marcil
+
+
+Magazines
+
+
+Circuit Cellar
+Nuts and Volts
+2600
+"Make has really moved to cater to the technically illiterate masses."
+"Wow... I'm going to disagree with you in a big way.  The current issue
+(Make 22) has an  in-depth article on converting your lawnmower to
+RC control."
+slash.org/
+
+
+Links
+=====
+Day Equivalent of Byte/Compute! Magazine?
+Posted by timothy  on Tuesday June 15, @03:34PM  
+http://ask.slashdot.org/story/10/06/15/1810203/Modern-Day-Equivalent-of-ByteCompute-Magazine
+
+Chaos Manor Reviews
+http://www.chaosmanorreviews.com/
+
+2600
+The Hacker Quarterly
+http://www.2600.com/
+
+CIRCUITCELLAR  By Engineers, For Engineers  
+http://www.circuitcellar.com/
+
+http://www.arstechnica.com/  [arstechnica.com]
+http://www.lifehacker.com/ [lifehacker.com]
+http://www.tomshardware.com/ [tomshardware.com]
+
+To get your John C. Dvorak fill, you could go here:
+http://www.dvorak.org/blog/  [dvorak.org]
+
+And Jerry Pournelle is here:
+http://www.chaosmanorreviews.com/ [chaosmanorreviews.com]
